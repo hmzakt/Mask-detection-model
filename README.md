@@ -1,6 +1,6 @@
 # Face Mask Detection (PyTorch + OpenCV)
 
-> A real-time face mask detection system using a custom ResNet18 deep learning model and OpenCV.  
+> A real-time face mask detection system using a custom ResNet18 deep learning model clone and OpenCV.  
 > This project detects whether a person is wearing a mask or not using webcam input.
 
 ---
